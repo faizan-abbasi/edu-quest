@@ -53,7 +53,7 @@ const Testimonials = () => {
                   Class of 2023: Edusity transformed my career trajectory. The
                   innovative curriculum and hands-on learning experiences
                   prepared me for the real world in ways I never imagined. The
-                  {`professors'`} dedication to student success and the
+                  professors dedication to student success and the
                   collaborative atmosphere among peers made my journey both
                   challenging and incredibly rewarding.
                 </p>
@@ -70,7 +70,7 @@ const Testimonials = () => {
                 </div>
                 <p>
                   Current Graduate Student: As an international student, I was
-                  amazed by {`Edusity's`} inclusive environment. The
+                  amazed by Edusity's inclusive environment. The
                   cutting-edge research opportunities and global perspective in
                   every class have broadened my horizons. The support services,
                   especially for non-native English speakers, have been
@@ -88,7 +88,7 @@ const Testimonials = () => {
                   </div>
                 </div>
                 <p>
-                  Class of 2022: {`Edusity's`} emphasis on interdisciplinary
+                  Class of 2022: Edusity's emphasis on interdisciplinary
                   learning opened my eyes to possibilities I never considered.
                   The diverse student body and faculty brought unique
                   perspectives to every discussion, enriching my educational

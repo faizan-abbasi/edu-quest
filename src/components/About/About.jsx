@@ -30,7 +30,7 @@ const About = ({ setPlayState }) => {
             From classroom teaching to educational leadership, our diverse
             curriculum empowers you with the skills, knowledge, and adaptability
             to make a lasting impact. Guided by expert mentors and immersed in
-            real-world scenarios, {`you'll`} develop the creativity and critical
+            real-world scenarios,you'll develop the creativity and critical
             thinking needed to inspire learners, transform communities, and lead
             educational innovation.
           </p>

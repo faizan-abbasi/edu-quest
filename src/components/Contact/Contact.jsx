@@ -42,11 +42,11 @@ const Contact = () => {
             Send us message. <img src={msg_icon} alt="" />
           </h3>
           <p>
-            {`We'd`} love to hear from you! Whether you have questions, ideas,
+            We'd love to hear from you! Whether you have questions, ideas,
             or just want to connect, our doors are always open. Drop us a line
             through our contact form or reach out directly using the information
             below. Your thoughts and feedback are the cornerstone of our
-            commitment to excellence in education. {`Let's`} start a
+            commitment to excellence in education. Let's start a
             conversation and shape the future of learning together!
           </p>
           <ul>

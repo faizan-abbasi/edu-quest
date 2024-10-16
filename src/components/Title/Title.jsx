@@ -13,8 +13,8 @@ const Title = (props) => {
 };
 
 Title.propTypes = {
-  title: PropTypes.string.isRequired, // Ensure title is a string and required
-  subtitle: PropTypes.string, // Optional prop (can be null/undefined)
+  title: PropTypes.string.isRequired, 
+  subtitle: PropTypes.string, 
 };
 
 export default Title;

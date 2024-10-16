@@ -10,7 +10,7 @@ const Hero = () => {
           <h1>Cultivating curiosity, inspiring growth</h1>
           <p>
             Our innovative program equips learners with the tools and insights
-            to thrive in {`education's`} evolving landscape
+            to thrive in education's evolving landscape
           </p>
           <Link
             to="program"
